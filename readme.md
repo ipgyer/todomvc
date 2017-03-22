@@ -1,3 +1,7 @@
+## ES6+webpack版代码仓库地址：
+https://github.com/ipgyer/todomvc_vue_es6
+
+
 # TodoMVC App Template
 
 > Template used for creating [TodoMVC](http://todomvc.com) apps
